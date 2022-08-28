@@ -1,6 +1,7 @@
-# Maratona Kenzie => Programar para Evoluir
+# Meu 1° Projeto Maratona Kenzie => Programar para Evoluir
 
 Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de 2022.
+Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na casa do Luiz (rsrsrsrs)
 
 ## Ferramentas
 
@@ -22,7 +23,7 @@ Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de
 - /src
   - /img
   - /css
-    - style.css
+    - jogo.css
   - /js
     - script.js
   - pages
