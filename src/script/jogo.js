@@ -25,7 +25,7 @@ function renderizarCartas() {
 
     carta.addEventListener("click", clickCarta);
 
-    carta.src = "./src/img/QuestionBlock.png";
+    carta.src = "./src/img/card.jpg";
     main.appendChild(carta);
   }
 }
@@ -54,7 +54,7 @@ function testPar() {
     click01 = null;
     click02 = null;
 
-    if (encontrados == 8) {
+    if (encontrados == 4) {
       placar++;
       placarTag.innerHTML = placar;
       encontrados = 0;
@@ -66,8 +66,8 @@ function testPar() {
     }
   } else {
     setTimeout(() => {
-      click01.src = "./src/img/QuestionBlock.png";
-      click02.src = "./src/img/QuestionBlock.png";
+      click01.src = "./src/img/card.jpg";
+      click02.src = "./src/img/card.jpg";
       click01 = null;
       click02 = null;
     }, 1000);

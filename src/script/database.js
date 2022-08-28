@@ -1,42 +1,22 @@
 const personagens = [
   {
     id: "0",
-    name: "boo",
-    img: "./src/img/Boo.png",
+    name: "bb8",
+    img: "./src/img/bb8.jpg",
   },
   {
     id: "1",
-    name: "goomba",
-    img: "./src/img/Goomba.png",
+    name: "r2d2",
+    img: "./src/img/r2d2.jpg",
   },
   {
     id: "2",
-    name: "shell",
-    img: "./src/img/Shell.png",
+    name: "sabreVerde",
+    img: "./src/img/sabreVerde.jpg",
   },
   {
     id: "3",
-    name: "piranha",
-    img: "./src/img/Piranha.png",
-  },
-  {
-    id: "4",
-    name: "toad",
-    img: "./src/img/Toad.png",
-  },
-  {
-    id: "5",
-    name: "yoshi",
-    img: "./src/img/Yoshi.png",
-  },
-  {
-    id: "6",
-    name: "Luigi",
-    img: "./src/img/Luigi.png",
-  },
-  {
-    id: "7",
-    name: "bowser",
-    img: "./src/img/Bowser.png",
+    name: "chewb",
+    img: "./src/img/chewb.jpg",
   },
 ];
