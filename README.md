@@ -54,6 +54,10 @@ Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na cas
 - [Luiz Paulo Reis](https://www.linkedin.com/in/luiz-paulo-reis-cardoso/)
 - [Maria Ferrari](https://www.linkedin.com/in/maria-aparecida-guedes-ferrari/)
 
+## repositório Oficial
+
+- [Maratona Kenzie => Programar para Evoluir](https://github.com/Kenzie-Academy-Brasil-Developers/maratona-programarParaEvoluir)
+
 ## Referências
 
 - [W3Schools referência HTML](https://www.w3schools.com/tags/default.asp)
