@@ -1,12 +1,8 @@
 # Meu 1° Projeto Maratona Kenzie => Programar para Evoluir
 
 Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de 2022.
+
 Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na casa do Luiz (rsrsrsrs)
-
-## Ferramentas
-
-1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
-2. [Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
 
 ## Checkpoints aulas
 
@@ -24,9 +20,14 @@ Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na cas
   - /img
   - /css
     - jogo.css
+    - main.css
+    - reset.css
   - /js
-    - script.js
+    - database.js
+    - jogo.js
+    - main.js
   - pages
+    - index.html
     - jogo.html
 
 ### Fonte
@@ -48,7 +49,8 @@ Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na cas
 
 - [Layout Maratona Kenzie => Programar para Evoluir](https://www.figma.com/file/8Amj3A1JAde5kzDlms5cr0/Maratona-Programa-para-Evoluir?node-id=0%3A1)
 
-## LinkedIn das Instrutoras
+## LinkedIn das(os) Instrutores
+
 - [Luiz Paulo Reis](https://www.linkedin.com/in/luiz-paulo-reis-cardoso/)
 - [Maria Ferrari](https://www.linkedin.com/in/maria-aparecida-guedes-ferrari/)
 
@@ -61,4 +63,3 @@ Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na cas
 - [Paletton](https://paletton.com/)
 - [W3Schools propriedades CSS no DOM](https://www.w3schools.com/jsref/dom_obj_style.asp)
 - [MDN lista de eventos](https://developer.mozilla.org/en-US/docs/Web/Events)
-
