@@ -49,6 +49,8 @@ Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na cas
 
 - [Layout Maratona Kenzie => Programar para Evoluir](https://www.figma.com/file/8Amj3A1JAde5kzDlms5cr0/Maratona-Programa-para-Evoluir?node-id=0%3A1)
 
+![preview](./.github/preview.png)
+
 ## LinkedIn das(os) Instrutores
 
 - [Luiz Paulo Reis](https://www.linkedin.com/in/luiz-paulo-reis-cardoso/)
