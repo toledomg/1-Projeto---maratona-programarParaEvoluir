@@ -10,7 +10,7 @@ let placar = 0;
 renderizarCartas();
 
 buttonEncerrar.addEventListener("click", () => {
-  window.location.assign("../../index.html");
+  window.location.assign("./index.html");
 });
 
 function renderizarCartas() {
