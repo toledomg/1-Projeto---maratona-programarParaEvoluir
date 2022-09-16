@@ -4,6 +4,8 @@ Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de
 
 Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na casa do Luiz (rsrsrsrs)
 
+![preview](./.github/preview.png)
+
 ## Checkpoints aulas
 
 1. [Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-HTML-603966060b18408b9a94e08029552dbc)
@@ -48,8 +50,6 @@ Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na cas
 ## Layout
 
 - [Layout Maratona Kenzie => Programar para Evoluir](https://www.figma.com/file/8Amj3A1JAde5kzDlms5cr0/Maratona-Programa-para-Evoluir?node-id=0%3A1)
-
-![preview](./.github/preview.png)
 
 ## LinkedIn das(os) Instrutores
 
