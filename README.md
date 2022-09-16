@@ -5,6 +5,7 @@ Projeto desenvolvido para o evento Programar para Evoluir no dia 27 de agosto de
 Foram 8 horas de Live com intervalo de 10 minutos, mais a queda de Energia na casa do Luiz (rsrsrsrs)
 
 ![preview](./.github/preview.png)
+![preview](./.github/preview_jogo.png)
 
 [🔗 Clique aqui para acessar](https://toledomg.github.io/Projeto-Maratona-Programar-ParaEvoluir/)
 
