@@ -7,6 +7,8 @@ Foram 8 horas de Live com intervalo de 10 minutos, mais a queda de Energia na ca
 ![preview](./.github/preview.png)
 ![preview](./.github/preview_jogo.png)
 
+![preview](./.github/preview2.png)
+
 [🔗 Clique aqui para acessar](https://toledomg.github.io/Projeto-Maratona-Programar-ParaEvoluir/)
 
 ## 🛠️ Tecnologias
