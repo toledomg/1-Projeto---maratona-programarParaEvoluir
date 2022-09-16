@@ -6,6 +6,15 @@ Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na cas
 
 ![preview](./.github/preview.png)
 
+[🔗 Clique aqui para acessar](https://toledomg.github.io/Projeto-Maratona-Programar-ParaEvoluir/)
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- Javascript
+- Git e Github
+
 ## Checkpoints aulas
 
 1. [Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-HTML-603966060b18408b9a94e08029552dbc)
@@ -69,3 +78,7 @@ Foram 8 horas de Live com intervalo de 10 minutos, mas a queda de Energia na cas
 - [Paletton](https://paletton.com/)
 - [W3Schools propriedades CSS no DOM](https://www.w3schools.com/jsref/dom_obj_style.asp)
 - [MDN lista de eventos](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+## ❤️ Contato
+
+toledomg@yahoo.com.br
